@@ -15,7 +15,7 @@
       <file leaf-file-name="WaitNotify.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/WaitNotify.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="180">
               <caret line="8" column="31" lean-forward="false" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -73,10 +73,12 @@
       <file leaf-file-name="Mutex.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lock/Mutex.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="50" column="17" lean-forward="false" selection-start-line="50" selection-start-column="17" selection-end-line="50" selection-end-column="17" />
+            <state relative-caret-position="70">
+              <caret line="50" column="16" lean-forward="true" selection-start-line="50" selection-start-column="16" selection-end-line="50" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#1330#1331#0" expanded="true" />
+                <element signature="e#1361#1362#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -85,9 +87,14 @@
       <file leaf-file-name="AbstractQueuedSynchronizer.java" pinned="false" current-in-tab="true">
         <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="856" column="1" lean-forward="false" selection-start-line="856" selection-start-column="1" selection-end-line="876" selection-end-column="5" />
-              <folding />
+            <state relative-caret-position="113">
+              <caret line="947" column="0" lean-forward="false" selection-start-line="947" selection-start-column="0" selection-end-line="973" selection-end-column="5" />
+              <folding>
+                <element signature="e#61323#61331#0" expanded="true" />
+                <element signature="e#61946#61954#0" expanded="true" />
+                <element signature="e#62618#62626#0" expanded="true" />
+                <element signature="e#88061#88069#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -197,11 +204,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1096" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-116" />
+    <option name="y" value="94" />
+    <option name="width" value="1386" />
+    <option name="height" value="788" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -218,9 +225,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -232,12 +239,6 @@
               <item name="concurrent" type="b2602c69:ProjectViewProjectNode" />
               <item name="concurrent" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="concurrent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="concurrent" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lock" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -408,14 +409,15 @@
       <workItem from="1504524663502" duration="1360000" />
       <workItem from="1504533677749" duration="2855000" />
       <workItem from="1504708808377" duration="1939000" />
+      <workItem from="1504779916850" duration="3385000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79483000" />
+    <option name="totallyTimeSpent" value="82868000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -430,7 +432,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12846482" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12953092" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -740,7 +742,7 @@
         <state relative-caret-position="960">
           <caret line="36" column="1" lean-forward="false" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -764,7 +766,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/WaitNotify.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="180">
           <caret line="8" column="31" lean-forward="false" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -830,25 +832,31 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="311">
           <caret line="303" column="25" lean-forward="true" selection-start-line="303" selection-start-column="25" selection-end-line="303" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lock/Mutex.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="50" column="17" lean-forward="false" selection-start-line="50" selection-start-column="17" selection-end-line="50" selection-end-column="17" />
+        <state relative-caret-position="70">
+          <caret line="50" column="16" lean-forward="true" selection-start-line="50" selection-start-column="16" selection-end-line="50" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1330#1331#0" expanded="true" />
+            <element signature="e#1361#1362#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="856" column="1" lean-forward="false" selection-start-line="856" selection-start-column="1" selection-end-line="876" selection-end-column="5" />
-          <folding />
+        <state relative-caret-position="113">
+          <caret line="947" column="0" lean-forward="false" selection-start-line="947" selection-start-column="0" selection-end-line="973" selection-end-column="5" />
+          <folding>
+            <element signature="e#61323#61331#0" expanded="true" />
+            <element signature="e#61946#61954#0" expanded="true" />
+            <element signature="e#62618#62626#0" expanded="true" />
+            <element signature="e#88061#88069#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
