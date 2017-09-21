@@ -2,6 +2,7 @@ package concurrenthashmap;
 
 import java.util.HashMap;
 import java.util.UUID;
+import java.util.concurrent.ConcurrentHashMap;
 
 /**
  * Created by walmt on 2017/9/19.
@@ -23,5 +24,6 @@ public class HashMapTest {
     public static void main(String[] args) throws InterruptedException {
         HashMapTest hashMapTest = new HashMapTest();
         hashMapTest.hashMapTest();
+        ConcurrentHashMap
     }
 }
