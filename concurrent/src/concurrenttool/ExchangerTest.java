@@ -22,7 +22,7 @@ public class ExchangerTest {
         threadPool.execute(() -> {
             try {
                 String B = "银行流水B"; // B录入银行流水数据
-                String A = exgr.exchange("B");
+                String A = exgr.exchange(B);
                 System.out.println("A和B数据是否一致：" + A.equals(B) + "，A录入的是："
                 + A + "，B录入是：" + B);
             } catch (InterruptedException ignored) {
