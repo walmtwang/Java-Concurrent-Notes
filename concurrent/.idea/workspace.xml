@@ -97,8 +97,8 @@
       <file leaf-file-name="ExchangerTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/concurrenttool/ExchangerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="32" selection-end-column="1" />
+            <state relative-caret-position="270">
+              <caret line="17" column="25" lean-forward="false" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -525,12 +525,12 @@
       <workItem from="1506598015128" duration="5311000" />
       <workItem from="1506872065055" duration="1196000" />
       <workItem from="1506915893558" duration="1876000" />
-      <workItem from="1520949558222" duration="831000" />
+      <workItem from="1520949558222" duration="870000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="154182000" />
+    <option name="totallyTimeSpent" value="154221000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
@@ -835,8 +835,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/concurrenttool/ExchangerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="32" selection-end-column="1" />
+        <state relative-caret-position="270">
+          <caret line="17" column="25" lean-forward="false" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
